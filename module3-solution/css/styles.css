@@ -1,4 +1,7 @@
-.tall-container {
-    height: 1000px;
-    background-color: aqua;
+body {
+    box-sizing: border-box;
+}
+
+.tall-row {
+    height: 700px;
 }

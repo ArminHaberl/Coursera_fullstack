@@ -17,7 +17,7 @@
 // See Lecture 52, part 2
 
 // STEP 9: Expose the 'byeSpeaker' object to the global scope. Name it
-// 'byeSpeaker' on the global scope as well.
+// 'byeSpeaker' on the global scope as well. asdf
 // xxxx.xxxx = byeSpeaker;
 
 (function(window){
